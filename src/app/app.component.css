@@ -1,0 +1,36 @@
+
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.toolbar{
+    background: #48487f;
+    color: #FFF;    
+}
+
+.companyName{
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    font-size: larger;
+    margin-left: 2%;
+    word-spacing: 2px; 
+}
+
+.nameHeading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 400%;
+    font-weight: bolder;
+    color: #48487f;
+    word-spacing: 2px; 
+}
+
+.headingColumn{
+    margin-top: 8%;
+}
+
+.contactButton{
+    margin-top: 5%;
+    padding: 1%;
+    width: 30%;
+    font-family: Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    background: #48487f ;
+}
